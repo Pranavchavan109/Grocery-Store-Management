@@ -39,6 +39,20 @@ Efficient SQL queries for faster data retrieval and analysis.
 
 
 
+
+##  Objective
+
+- Design a structured relational database for grocery store operations
+
+- Manage product inventory and customer information efficiently
+
+- Track orders and sales transactions
+
+- Apply normalization principles to reduce data redundancy
+
+
+
+
 ##  Technologies Used
 
 - MySQL  
@@ -67,15 +81,6 @@ Efficient SQL queries for faster data retrieval and analysis.
 
 
 
-##  Objective
-
-- Design a structured relational database for grocery store operations
-
-- Manage product inventory and customer information efficiently
-
-- Track orders and sales transactions
-
-- Apply normalization principles to reduce data redundancy
 
 - Implement constraints to maintain data integrity
 
